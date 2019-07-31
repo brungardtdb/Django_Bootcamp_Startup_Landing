@@ -61,5 +61,14 @@ p
   {
     text-align: center;
     color: #f7f7fc;
+    font-size: 150%
+  }
 
+/*submit button for launch*/
+  #btnSubmit{
+    background-color: #FF9F1C;
+    height: 40px;
+    width: 150px;
+    margin: 12px;
+    border-radius: 15px;
   }
