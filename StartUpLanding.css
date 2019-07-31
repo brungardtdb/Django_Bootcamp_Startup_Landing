@@ -1,3 +1,4 @@
+/*body of html page content*/
 body
 {
   background-color: #000321;
@@ -8,6 +9,7 @@ body
   border-bottom: 50px solid #14e5d0;
 }
 
+/*margin around sides of page content*/
 margin
 {
   padding-top: 0px;
@@ -17,7 +19,7 @@ margin
   border-bottom: 10px solid #000321;
 }
 
-
+/* div for main page content in center*/
 .pagecontent
 {
   background-color: #000321;
@@ -32,24 +34,28 @@ margin
 
 }
 
+/*header one*/
 h1
 {
   text-align: center;
   color: #f7f7fc;
 }
 
+/*header two*/
 h2
 {
   text-align: center;
   color: #f7f7fc;
 }
 
+/*paragraph text*/
 p
   {
     text-align: center;
     color: #f7f7fc;
   }
 
+/*email sign up form*/
   form
   {
     text-align: center;
